@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8adbf6f8.css",
+    "main.js": "/static/js/main.fa113269.js",
+    "static/js/498.7742a8dc.chunk.js": "/static/js/498.7742a8dc.chunk.js",
+    "static/js/703.3ef3adfc.chunk.js": "/static/js/703.3ef3adfc.chunk.js",
+    "static/js/513.b493489d.chunk.js": "/static/js/513.b493489d.chunk.js",
+    "static/js/787.4dfc2934.chunk.js": "/static/js/787.4dfc2934.chunk.js",
+    "static/media/slide2.png": "/static/media/slide2.a1488c76ed9339d33162.png",
+    "static/media/goldloan.jpg": "/static/media/goldloan.ba5bd23de934762fc84e.jpg",
+    "static/media/slide1.png": "/static/media/slide1.2cea03f450defea62820.png",
+    "static/media/slide3.png": "/static/media/slide3.df64d785c547a30a11b7.png",
+    "static/media/home.jpg": "/static/media/home.db43cf89f9b2f3d0de07.jpg",
+    "static/media/personal-loan.jpg": "/static/media/personal-loan.3e653ff26ee4df3afad3.jpg",
+    "static/media/accounting.png": "/static/media/accounting.696c61ceede972d985f4.png",
+    "static/media/report.png": "/static/media/report.f3481ca13c77de86334e.png",
+    "static/media/bank.png": "/static/media/bank.aad6eb0c12c622f676f7.png",
+    "static/media/check.png": "/static/media/check.f306c52678eeef9af6d6.png",
+    "index.html": "/index.html",
+    "main.8adbf6f8.css.map": "/static/css/main.8adbf6f8.css.map",
+    "main.fa113269.js.map": "/static/js/main.fa113269.js.map",
+    "498.7742a8dc.chunk.js.map": "/static/js/498.7742a8dc.chunk.js.map",
+    "703.3ef3adfc.chunk.js.map": "/static/js/703.3ef3adfc.chunk.js.map",
+    "513.b493489d.chunk.js.map": "/static/js/513.b493489d.chunk.js.map",
+    "787.4dfc2934.chunk.js.map": "/static/js/787.4dfc2934.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8adbf6f8.css",
+    "static/js/main.fa113269.js"
+  ]
+}
